@@ -80,10 +80,6 @@ h2 {
     text-align: center;
 }
 
-#projects {
-    height: 100vh;
-}
-
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -121,7 +117,6 @@ h2 {
 }
 
 #contact {
-    height: 30vh;
 }
 .contact-section {
     background-color: #242424;
